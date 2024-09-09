@@ -12,11 +12,11 @@ This project designs a modular reconfigurable multi-configuration biomimetic rob
 
 ### Version 1.0
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=oa4fZSeTry0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oa4fZSeTry0/0.jpg)](https://www.youtube.com/watch?v=oa4fZSeTry0)
 
 ### Version 2.0
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=33fWOx1gzGU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/33fWOx1gzGU/0.jpg)](https://www.youtube.com/watch?v=33fWOx1gzGU)
 
 ## Application scenarios
 
