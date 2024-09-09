@@ -2,7 +2,7 @@
 
 We propose a modular reconfigurable multi-configuration biomimetic robot based on the modular design concept, integrating the advantages of legged robots and snake like robots.
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/review.png)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/review.png#pic_center=400x300)
 
 ## Abstract
 
