@@ -28,15 +28,15 @@ This demonstrates the adaptability of robots to different terrains and environme
 
 ### 2> Grassland
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_4.gif#pic_center=250x200)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_4.gif#pic_center=200x)
 
 ### 3> Narrow Area
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/Snake.gif#pic_center=250x200)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/Snake.gif#pic_center=200x)
 
 ### 4> Surmounting Obstacle
 
-![](https://github.com/Scalpelapex/Images/blob/main/YZ.gif#pic_center=250x200)
+![](https://github.com/Scalpelapex/Images/blob/main/YZ.gif#pic_center=200x)
 
 ### 5> Climbing
 
@@ -46,8 +46,8 @@ This demonstrates the adaptability of robots to different terrains and environme
 
 ### Hexapod
 
-![](https://github.com/Scalpelapex/Images/blob/main/LZ_01.gif#pic_center=250x200)
-![](https://github.com/Scalpelapex/Images/blob/main/LZ_02.gif#pic_center=250x200)
+![](https://github.com/Scalpelapex/Images/blob/main/LZ_01.gif#pic_center=200x)
+![](https://github.com/Scalpelapex/Images/blob/main/LZ_02.gif#pic_center=200x)
 
 ### Quadruped
 
