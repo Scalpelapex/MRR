@@ -24,7 +24,7 @@ This demonstrates the adaptability of robots to different terrains and environme
 
 ### 1> Macadam Pavement
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_6.gif=300x200)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_6.gif#pic_center=200x)
 
 ### 2> Grassland
 
