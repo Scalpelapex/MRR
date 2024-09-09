@@ -24,35 +24,35 @@ This demonstrates the adaptability of robots to different terrains and environme
 
 ### 1> Macadam Pavement
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_6.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_6.gif#pic_center=250x200)
 
 ### 2> Grassland
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_4.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/ZZ_4.gif#pic_center=250x200)
 
 ### 3> Narrow Area
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/Snake.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/Snake.gif#pic_center=250x200)
 
 ### 4> Surmounting Obstacle
 
-![](https://github.com/Scalpelapex/Images/blob/main/YZ.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/YZ.gif#pic_center=250x200)
 
 ### 5> Climbing
 
-![](https://github.com/Scalpelapex/Images/blob/main/SP.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/SP.gif#pic_center=250x200)
 
 ## Gait Simulation on Webots
 
 ### Hexapod
 
-![](https://github.com/Scalpelapex/Images/blob/main/LZ_01.gif)
-![](https://github.com/Scalpelapex/Images/blob/main/LZ_02.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/LZ_01.gif#pic_center=250x200)
+![](https://github.com/Scalpelapex/Images/blob/main/LZ_02.gif#pic_center=250x200)
 
 ### Quadruped
 
-![](https://github.com/Scalpelapex/Images/blob/main/MRR/sizu.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/MRR/sizu.gif#pic_center=250x200)
 
 ### Snake
 
-![](https://github.com/Scalpelapex/Images/blob/main/SX.gif)
+![](https://github.com/Scalpelapex/Images/blob/main/SX.gif#pic_center=250x200)
