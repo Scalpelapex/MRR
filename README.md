@@ -16,7 +16,6 @@ This project designs a modular reconfigurable multi-configuration biomimetic rob
 
 ### Version 2.0
 
-[![Modular reconfigurable robot](https://i.ytimg.com/vi/33fWOx1gzGU/maxresdefault.jpg)](https://www.youtube.com/watch?v=33fWOx1gzGU "Modular reconfigurable robot")
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/33fWOx1gzGU/0.jpg)](https://www.youtube.com/watch?v=33fWOx1gzGU)
 
 ## Application scenarios
